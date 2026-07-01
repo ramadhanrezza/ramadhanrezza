@@ -1,16 +1,74 @@
-## Hi there 👋
+# Hi, I'm M Rezza Ramadhan 👋
 
-<!--
-**ramadhanrezza/ramadhanrezza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Full-Stack Engineer with 13+ years of experience building enterprise software that simplifies complex business and technical workflows.
 
-Here are some ideas to get you started:
+I specialize in designing and developing cloud platforms, enterprise security solutions, AI-powered applications, and business automation systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Tech Stack
+
+### Frontend
+- React.js
+- Next.js
+- TypeScript
+- JavaScript
+- HTML5
+- CSS3
+
+### Backend
+- Node.js
+- Express.js
+- Laravel
+- Go
+- Python
+
+### Cloud & DevOps
+- Docker
+- Docker Compose
+- OpenStack
+- CloudStack
+- REST APIs
+
+### AI
+- MCP
+- Retrieval-Augmented Generation (RAG)
+- LLM Integration
+
+### Database
+- PostgreSQL
+- MySQL
+- SQL Server
+
+---
+
+## 💼 What I Build
+
+- Enterprise Cloud Platforms
+- Enterprise Security Portals
+- AI Knowledge Systems
+- Business Automation Platforms
+- High Performance Web Applications
+
+---
+
+## 🌱 Currently Working On
+
+- Improving software architecture and system design
+- Learning modern AI engineering
+- Building high-quality open-source showcase projects
+
+---
+
+## 🎯 Career Goal
+
+Currently looking for remote international opportunities as a Senior Full-Stack Engineer.
+
+Long-term goal: build globally used SaaS products while continuing to grow in cloud and AI engineering.
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: https://linkedin.com/in/ramadhanrezza
+- Email: mrezza.ramadhan@gmail.com
